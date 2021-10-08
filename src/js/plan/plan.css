@@ -1,0 +1,5 @@
+.plan{
+    display: flex;
+    justify-content: space-between;
+    /* width: 50%; */
+}
